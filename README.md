@@ -7,7 +7,7 @@
 - __Location__: Tashkent, Uzbekistan
 - __Phone__: +998 90 722-95-29
 - __Email__: Mukhammadali222@gmail.com
-- __GitHub__:[Urakov-Ali](https://github.com/Urakov-Ali/)
+- __GitHub__: [Urakov-Ali](https://github.com/Urakov-Ali/)
 
 ### About Me
 
@@ -54,11 +54,11 @@ myFirstApp('Ali', 22)
 
 - University: Uzbekistan State World Languages University
 - Courses
-    - Udemy [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/)(in progress)
-    - Udemy [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)(completed)
-    - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)(completed)
-    - Udemy [Python + Django: с нуля до коммерческих приложений](https://www.udemy.com/course/python-django-app/)(completed)
-    - Udemy [WEB-разработчик 2022 - Author: Ivan Petrichenko](https://www.udemy.com/course/webdeveloper/)(in progress)
+    - Udemy [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/) (in progress)
+    - Udemy [WEB-разработчик 2022 - Author: Ivan Petrichenko](https://www.udemy.com/course/webdeveloper/) (in progress)
+    - Udemy [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/) (completed)
+    - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/) (completed)
+    - Udemy [Python + Django: с нуля до коммерческих приложений](https://www.udemy.com/course/python-django-app/) (completed)
 
 ### Languages
 
