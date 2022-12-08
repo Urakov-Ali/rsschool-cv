@@ -54,8 +54,21 @@ myFirstApp('Ali', 22)
 
 - University: Uzbekistan State World Languages University
 - Courses
-    - ff
-    - ff
+    - Udemy [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/)(in progress)
+    - Udemy [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)(completed)
+    - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)(completed)
+    - Udemy [Python + Django: с нуля до коммерческих приложений](https://www.udemy.com/course/python-django-app/)(completed)
+    - Udemy [WEB-разработчик 2022 - Author: Ivan Petrichenko](https://www.udemy.com/course/webdeveloper/)(in progress)
+
+### Languages
+
+- English: B2 (Fluent)
+- Russian: B1 (Intermidate)
+- Spanish: A2 (Pre-Intermidate)
+- Uzbek: Native
+
+
+
 
 
 
