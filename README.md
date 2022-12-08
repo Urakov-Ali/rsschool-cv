@@ -25,6 +25,7 @@ I'm a student at UzSWLU, Roman-Herman faculty. Even if my area of education is f
 
 ### Code Example
 
+
 function myFirstApp(name, age) {
     alert (`Hello my name is ${name} I'm ${age} years old and this is my first app`)
 
