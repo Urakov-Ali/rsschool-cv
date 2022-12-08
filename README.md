@@ -36,18 +36,25 @@ function myFirstApp(name, age) {
         };
         alert (`I know ${massive}`);
     }
+    
     function checkAge(age) {
         switch(parseInt(age)) {
             case 18:
                 alert('get to the site')
         };
     }
+    
 showSkills();
 checkAge(18)
 }
+
 myFirstApp('Ali', 22)
 
+### Education
 
+- University: Uzbekistan State World Languages University
+- Courses
+-- ff
 
 
 
