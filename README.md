@@ -16,14 +16,43 @@ I'm a student at UzSWLU, Roman-Herman faculty. Even if my area of education is f
 ### Skills
 
 - HTML/CSS
-- JavaScript(Basic)
-- Git/Github(Basic)
+- JavaScript (Basic)
+- Git/Github (Basic)
 - Python, Django/ Django rest_framework
-- PostgreSQL/ SQLite(Basic)
-- REST API(Basic)
+- PostgreSQL/ SQLite (Basic)
+- REST API (Basic)
 - Tkinter, Telegram-bot
 
+### Code Example
 
+function myFirstApp(name, age) {
+    alert (`Hello my name is ${name} I'm ${age} years old and this is my first app`)
+
+    
+    function showSkills() {
+        let skills = ['HTML', 'CSS', 'JS']
+        massive = []
+        for (let i=0; i<skills.length; i++) {
+            massive[i] = skills[i]
+        };
+        alert (`I know ${massive}`);
+    }
+    
+    
+    function checkAge(age) {
+        switch(parseInt(age)) {
+            case 18:
+                alert('get to the site')
+        };
+    }
+    
+
+showSkills();
+checkAge(18)
+
+}
+
+myFirstApp('Ali', 22)
 
 
 
