@@ -28,7 +28,6 @@ I'm a student at UzSWLU, Roman-Herman faculty. Even if my area of education is f
 function myFirstApp(name, age) {
     alert (`Hello my name is ${name} I'm ${age} years old and this is my first app`)
 
-    
     function showSkills() {
         let skills = ['HTML', 'CSS', 'JS']
         massive = []
@@ -38,7 +37,6 @@ function myFirstApp(name, age) {
         alert (`I know ${massive}`);
     }
     
-    
     function checkAge(age) {
         switch(parseInt(age)) {
             case 18:
@@ -46,7 +44,6 @@ function myFirstApp(name, age) {
         };
     }
     
-
 showSkills();
 checkAge(18)
 
