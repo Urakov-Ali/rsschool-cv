@@ -60,7 +60,7 @@ myFirstApp('Ali', 22)
     - Udemy [Python + Django: с нуля до коммерческих приложений](https://www.udemy.com/course/python-django-app/) (in progress)
     - Udemy [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/course/django-python) (in progress)
     - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/certificate/UC-2a320cce-a1ad-4f31-9be3-6fd62b2d73c8/) (completed)
-    - Udemy [Django 3 - Full Stack разработка веб-сайтов на Python](https://www.udemy.com/certificate/UC-d84ce351-124c-4ab1-b73a-ad6dab46daec/)(completed)
+    - Udemy [Django 3 - Full Stack разработка веб-сайтов на Python](https://www.udemy.com/certificate/UC-d84ce351-124c-4ab1-b73a-ad6dab46daec/) (completed)
 
 
 ### Languages
