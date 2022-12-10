@@ -1,0 +1,227 @@
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: relative;
+}
+
+.container {
+    position: relative;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    height: 90px;
+}
+
+.nav_line {
+    width: 100%;
+    height: 1px;
+    background-color: #828282;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0px;
+    margin: 0;
+    list-style-type: none;
+}
+
+.menu .menu_link {
+    color:#828282;
+    font-size: 18px;
+    font-weight: 700;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.subheader .subheader_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.subheader .logo {
+    margin-top: 40px;
+    width: 124px;
+    height: 128px;
+
+    color:#070707;
+    font-size: 48px;
+    line-height: 59px;
+    font-weight: 700;
+}
+
+.subheader .logo span {
+    font-size: 35px;
+}
+
+.subheader .profession {
+    color:#070707;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 95px;
+}
+
+.subheader .lang {
+    cursor: pointer;
+    margin-top: 40px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.promo .main_bg {
+    margin-top: 30px;
+    height: 450px;
+    background: url('../images/bg/ali_bg.jpg') center center/cover no-repeat;
+}
+
+.about {
+    margin-top: 105px;
+    background-color:#f6f6f6;
+    padding: 150px 0 107px 0;
+}
+
+.about .about-header {
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about .about_text {
+    margin-top: 18px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 25px;
+}
+
+.skills {
+    min-height: 610px;
+    padding-top: 90px
+}
+
+.skills_header, .example_header, .edu_header, .lang_header {
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.skills .skills_subheader {
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.skills .programs_container {
+    padding: 80px 200px 100px 220px;
+}
+
+.skills .programs_wrapper-1, .programs_wrapper-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills .programs_wrapper-2 {
+    margin-top: 60px;
+}
+
+ .programs_icon {
+    width: 75px;
+    height: 80px;
+}
+
+.programs_descr {
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.code_example {
+    background-color:#f6f6f6;
+    padding: 100px 0 100px 0;
+}
+
+.code_example .example_img {
+    display: block;
+    width: 90%;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.education {
+    padding: 100px 0;
+}
+
+.education .header_wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.education .edu_header {
+    width: 55%;
+    font-size: 34px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.education .lang_header {
+    width: 45%;
+    font-size: 34px;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.education .text_wrapper {
+    display: flex;
+}
+
+.education .edu_text {
+    width: 50%;
+}
+
+.education .edu_text span li {
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 18px;
+    list-style-type: disc;
+}
+
+.education .edu_text li{
+    line-height: 23px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 45px;
+    list-style-type: circle;
+}
+
+.education .edu_text li a {
+    color: black;
+    transition: all 0.5s ease;
+}
+
+.education .edu_text li a:hover{
+    color: #0000EE;
+} 
+
+.lang_text li{
+    margin-top: 32px;
+    margin-left: 30px;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.lang_text {
+    margin-top: 78px;
+    margin-left: 100px;
+}
