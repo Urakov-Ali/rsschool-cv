@@ -58,7 +58,7 @@ myFirstApp('Ali', 22)
     - Udemy [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/) (in progress)
     - Udemy [WEB-разработчик 2022 - Author: Ivan Petrichenko](https://www.udemy.com/course/webdeveloper/) (in progress)
     - Udemy [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/) (completed)
-    - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/) (completed)
+    - Udemy [Creating Python APIs Like a BOSS - The Django REST Framework](https://www.udemy.com/certificate/UC-2a320cce-a1ad-4f31-9be3-6fd62b2d73c8/) (completed)
     - Udemy [Python + Django: с нуля до коммерческих приложений](https://www.udemy.com/course/python-django-app/) (completed)
 
 ### Languages
