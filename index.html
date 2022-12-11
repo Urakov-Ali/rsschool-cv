@@ -17,11 +17,11 @@
     <nav>
         <div class="container">
             <ul class="menu">
-                <li class="menu_item"><a href="#" class="menu_link">Home</a></li>
-                <li class="menu_item"><a href="#" class="menu_link">About me</a></li>
-                <li class="menu_item"><a href="#" class="menu_link">Skills</a></li>
-                <li class="menu_item"><a href="#" class="menu_link">Portfolio</a></li>
-                <li class="menu_item"><a href="#" class="menu_link">Contacts</a></li>
+                <li class="menu_item"><a href="/" class="menu_link">Home</a></li>
+                <li class="menu_item"><a href="#about" class="menu_link">About me</a></li>
+                <li class="menu_item"><a href="#skills" class="menu_link">Skills</a></li>
+                <li class="menu_item"><a href="#code_example" class="menu_link">Code example</a></li>
+                <li class="menu_item"><a href="tel:8907229529" class="menu_link">Contacts</a></li>
             </ul>
             <div class="nav_line"></div>
         </div>
@@ -31,7 +31,7 @@
             <div class="subheader_wrapper">
             <div class="logo"><span>Urakov</span> Ali --</div>
             <div class="profession">Front-end developer <br>22 years old, Tashkent</div>
-            <div class="lang">RU | <br>ENG</div>
+            <div class="lang"><span id="btn-ru"> RU</span> | <br><span id="btn-eng" style="text-decoration: underline;">ENG</span></div>
             </div>
         </div>
     </div>
@@ -43,23 +43,24 @@
     </div>
 </section>
 
+<a name="about">
 <section class="about">
     <div class="container">
         <div class="about-header">About me</div>
         <div class="about_text">
-            Hi, I'm Denis – UX/UI designer from Minsk. 
-            <br>I'm interested in design and everything connected with it.
+            Hi, I'm Ali – Full-stack developer from Tashkent. 
+            <br>I'm interested in coding and everything connected with it.
 
-            <br><br><br>I'm studying at courses "Web and mobile design 
-            <br>interfaces" in IT-Academy.
+            <br><br><br>I'm studying at "Front-end development 
+            <br>course" at RS-School.
 
             <br><br><br>Ready to implement excellent projects
             <br>with wonderful people.
         </div>
         </div>
-</section>
+</section></a>
 
-<section class="skills">
+<a name="skills"><section class="skills">
     <div class="container">
         <div class="skills_header">Skills</div>
         <div class="skills_subheader">I work in such programs as</div>
@@ -102,11 +103,12 @@
         </div>
         </div>
     </div>
-</section>
+</section></a>
+
 
 <section class="code_example">
     <div class="container">
-        <div class="example_header">Code example</div>
+        <a name="code_example"><div class="example_header">Code example</div></a>
         <img src="images/code.png" alt="" class="example_img">
     </div>
 </section>
@@ -142,11 +144,19 @@
                 <li>Spanish: A2 (Pre-Intermidate)</li>
                 <li>Uzbek: Native</li>
             </ul>
-            
         </div>
     </div>
 </section>
 
+<section class="footer">
+    <div class="github">
+        <div class="img"><a href="https://github.com/Urakov-Ali"><img src="images/icons/github.svg" alt="" class="git_icon"></div></a>
+        <div class="git_descr"><a href="https://github.com/Urakov-Ali">Посетите мой github</a></div>
+    </div>
+    <div class="year">&amp;copy 2022</div>
+    <a href="https://rs.school/"><img src="images/icons/rsschool.svg" alt="" class="rs_icon"></a>
+</section>
 
+<script src="script.js"></script>
 </body>
 </html>
