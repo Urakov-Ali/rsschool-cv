@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 * {
     font-family: "Roboto", sans-serif;
     box-sizing: border-box;
@@ -18,6 +22,7 @@ header {
 nav {
     height: 90px;
 }
+
 
 .nav_line {
     width: 100%;
@@ -225,3 +230,46 @@ nav {
     margin-top: 78px;
     margin-left: 100px;
 }
+
+.footer {
+    height: 70px;
+    background-color: #222;
+    justify-content: space-around;
+}
+
+.footer{
+    padding-left: 20px;
+    display: flex;
+    align-items:center;
+}
+
+.footer .github {
+    display: flex;
+    align-items:center;
+}
+
+.footer .git_icon {
+    width: 40px;
+    height: 40px;
+}
+
+.footer .git_descr a {
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.footer .year {
+    color: white;
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.footer .rs_icon {
+    width: 100px;
+    height: 100px;
+}
+
