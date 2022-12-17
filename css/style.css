@@ -44,7 +44,12 @@ nav {
     font-weight: 700;
     list-style-type: none;
     text-decoration: none;
+    transition: all 0.5s ease;
 }
+
+.menu .menu_item a:hover{
+    color: black;
+} 
 
 .subheader .subheader_wrapper {
     display: flex;
@@ -92,14 +97,14 @@ nav {
     padding: 150px 0 107px 0;
 }
 
-.about .about-header {
+.about .about-header h2{
     font-size: 34px;
     font-weight: 700;
     text-align: center;
 }
 
 .about .about_text {
-    margin-top: 18px;
+    margin-top: 60px;
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -111,7 +116,7 @@ nav {
     padding-top: 90px
 }
 
-.skills_header, .example_header, .edu_header, .lang_header {
+.skills_header h2, .example_header h2, .edu_header, .lang_header {
     font-size: 34px;
     font-weight: 700;
     text-align: center;
